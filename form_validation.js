@@ -4,5 +4,6 @@ function formValidation(inputPassword) {
         alert("Invalid password!");
     else{
         alert("Success!");
+        document.getElementById('h1').innerHTML = "Validation Successful"
     }    
 }
