@@ -4,6 +4,5 @@ function formValidation(inputPassword) {
         alert("Invalid password!");
     else{
         alert("Success!");
-    }
-        
+    }    
 }
